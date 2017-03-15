@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-#include "../cryptopp/files.h"
-#include "../cryptopp/modes.h"
-#include "../cryptopp/osrng.h"
-#include "../cryptopp/rsa.h"
-#include "../cryptopp/sha.h"
+#include "cryptopp/files.h"
+#include "cryptopp/modes.h"
+#include "cryptopp/osrng.h"
+#include "cryptopp/rsa.h"
+#include "cryptopp/sha.h"
 
 using namespace CryptoPP;
 using std::cout;
