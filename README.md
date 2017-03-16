@@ -12,10 +12,10 @@
 ### Block Ciphers
 |Algorithm |Description |Key Length|Completed|
 |----------|------------|:--------:|:--------:|
-|Blowfish  |Block cipher developed by Schneier|1-448 bits|
-|Triple-DES|A three-fold application of the DES algorithm|168 bits|
-|RC5|Block cipher developed by Rivest and published in 1994|128-256 bits|
-|IDEA|Block cipher developed by Massey and Xuejia|128 bits|
+|Blowfish  |Block cipher developed by Schneier|1-448 bits|:heavy_check_mark:|
+|Triple-DES|A three-fold application of the DES algorithm|168 bits|:heavy_check_mark:|
+|RC5|Block cipher developed by Rivest and published in 1994|128-256 bits|:heavy_check_mark:|
+|IDEA|Block cipher developed by Massey and Xuejia|128 bits|:heavy_check_mark:|
 
 ### AES and Candidates
 |Algorithm |Description |Key Length|Completed|
