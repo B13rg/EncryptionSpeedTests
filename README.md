@@ -22,9 +22,9 @@
 |----------|------------|:--------:|:--------:|
 |MARS|AES finalist developed by IBM|128-256 bits|
 |RC6|AES finalist developed by RSA Labs|128-256 bits|
-|AES (Rijndael)|NIST selection for AES, developed by Daemen and Rijmen|128-256 bits|
-|Serpent|AES finalist developed by Anderson, Biham, and Knudsen|128-256 bits|
-|Twofish|AES candidate developed by Schneier|128-256 bits|
+|AES (Rijndael)|NIST selection for AES, developed by Daemen and Rijmen|128-256 bits|:heavy_check_mark:|
+|Serpent|AES finalist developed by Anderson, Biham, and Knudsen|128-256 bits|:heavy_check_mark:|
+|Twofish|AES candidate developed by Schneier|128-256 bits|:heavy_check_mark:|
 |Cast-256|AES candidate developed by Carlisle Adams| |
 
 ### Public Key Cryptography
